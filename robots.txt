@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/vigor-jelly-gummies-reviews-benefits/sitemap.xml
